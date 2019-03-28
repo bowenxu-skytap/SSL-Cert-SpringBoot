@@ -1,34 +1,72 @@
-2019-03-28 14:41:48,437 INFO b.SpringBatchSslApplication [main] Starting SpringBatchSslApplication on HQSML-155237 with PID 89885 (/Users/bxu601/nextVM-workspace/SpringBatchSSL/target/classes started by bxu601 in /Users/bxu601/nextVM-workspace/SpringBatchSSL)
-2019-03-28 14:41:48,441 INFO b.SpringBatchSslApplication [main] No active profile set, falling back to default profiles: default
-2019-03-28 14:41:48,911 INFO o.s.s.c.ThreadPoolTaskScheduler [main] Initializing ExecutorService 'taskScheduler'
-2019-03-28 14:41:48,930 INFO b.Cert [scheduling-1] One month later date: 2019/04/28 14:41:48
-2019-03-28 14:41:48,930 INFO b.Cert [scheduling-1] Endpoint URL: https://xvevmms.vmail.comcast.net/
-2019-03-28 14:41:48,931 INFO b.SpringBatchSslApplication [main] Started SpringBatchSslApplication in 0.721 seconds (JVM running for 1.372)
-2019-03-28 14:41:49,287 INFO b.Cert [scheduling-1] SSL Certificate subject: CN=*.vmail.comcast.net, OU=Enterprise SSL Pro Wildcard, OU=Hosted by Comcast Corporation, OU=NSO, O=Comcast Corporation, STREET=1 Comcast Center, L=Philadelphia, ST=PA, OID.2.5.4.17=19103, C=US
-2019-03-28 14:41:49,287 INFO b.Cert [scheduling-1] SSL Certificate end date: Wed Mar 17 19:59:59 EDT 2021
-2019-03-28 14:41:49,289 INFO b.Cert [scheduling-1] Endpoint URL: https://xvevmapi.vmail.comcast.net/
-2019-03-28 14:41:49,653 INFO b.Cert [scheduling-1] SSL Certificate subject: CN=*.vmail.comcast.net, OU=Enterprise SSL Pro Wildcard, OU=Hosted by Comcast Corporation, OU=NSO, O=Comcast Corporation, STREET=1 Comcast Center, L=Philadelphia, ST=PA, OID.2.5.4.17=19103, C=US
-2019-03-28 14:41:49,654 INFO b.Cert [scheduling-1] SSL Certificate end date: Wed Mar 17 19:59:59 EDT 2021
-2019-03-28 14:41:49,654 INFO b.Cert [scheduling-1] Endpoint URL: https://web-po-bvip.vmail.comcast.net/
-2019-03-28 14:41:49,928 INFO b.Cert [scheduling-1] SSL Certificate subject: CN=*.vmail.comcast.net, OU=Enterprise SSL Pro Wildcard, OU=Hosted by Comcast Corporation, OU=NSO, O=Comcast Corporation, STREET=1 Comcast Center, L=Philadelphia, ST=PA, OID.2.5.4.17=19103, C=US
-2019-03-28 14:41:49,928 INFO b.Cert [scheduling-1] SSL Certificate end date: Wed Mar 17 19:59:59 EDT 2021
-2019-03-28 14:41:58,929 INFO b.Cert [scheduling-1] One month later date: 2019/04/28 14:41:58
-2019-03-28 14:41:58,935 INFO b.Cert [scheduling-1] Endpoint URL: https://xvevmms.vmail.comcast.net/
-2019-03-28 14:41:58,955 INFO b.Cert [scheduling-1] SSL Certificate subject: CN=*.vmail.comcast.net, OU=Enterprise SSL Pro Wildcard, OU=Hosted by Comcast Corporation, OU=NSO, O=Comcast Corporation, STREET=1 Comcast Center, L=Philadelphia, ST=PA, OID.2.5.4.17=19103, C=US
-2019-03-28 14:41:58,956 INFO b.Cert [scheduling-1] SSL Certificate end date: Wed Mar 17 19:59:59 EDT 2021
-2019-03-28 14:41:58,956 INFO b.Cert [scheduling-1] Endpoint URL: https://xvevmapi.vmail.comcast.net/
-2019-03-28 14:41:59,138 INFO b.Cert [scheduling-1] SSL Certificate subject: CN=*.vmail.comcast.net, OU=Enterprise SSL Pro Wildcard, OU=Hosted by Comcast Corporation, OU=NSO, O=Comcast Corporation, STREET=1 Comcast Center, L=Philadelphia, ST=PA, OID.2.5.4.17=19103, C=US
-2019-03-28 14:41:59,139 INFO b.Cert [scheduling-1] SSL Certificate end date: Wed Mar 17 19:59:59 EDT 2021
-2019-03-28 14:41:59,139 INFO b.Cert [scheduling-1] Endpoint URL: https://web-po-bvip.vmail.comcast.net/
-2019-03-28 14:41:59,463 INFO b.Cert [scheduling-1] SSL Certificate subject: CN=*.vmail.comcast.net, OU=Enterprise SSL Pro Wildcard, OU=Hosted by Comcast Corporation, OU=NSO, O=Comcast Corporation, STREET=1 Comcast Center, L=Philadelphia, ST=PA, OID.2.5.4.17=19103, C=US
-2019-03-28 14:41:59,464 INFO b.Cert [scheduling-1] SSL Certificate end date: Wed Mar 17 19:59:59 EDT 2021
-2019-03-28 14:42:08,929 INFO b.Cert [scheduling-1] One month later date: 2019/04/28 14:42:08
-2019-03-28 14:42:08,929 INFO b.Cert [scheduling-1] Endpoint URL: https://xvevmms.vmail.comcast.net/
-2019-03-28 14:42:08,989 INFO b.Cert [scheduling-1] SSL Certificate subject: CN=*.vmail.comcast.net, OU=Enterprise SSL Pro Wildcard, OU=Hosted by Comcast Corporation, OU=NSO, O=Comcast Corporation, STREET=1 Comcast Center, L=Philadelphia, ST=PA, OID.2.5.4.17=19103, C=US
-2019-03-28 14:42:08,989 INFO b.Cert [scheduling-1] SSL Certificate end date: Wed Mar 17 19:59:59 EDT 2021
-2019-03-28 14:42:08,990 INFO b.Cert [scheduling-1] Endpoint URL: https://xvevmapi.vmail.comcast.net/
-2019-03-28 14:42:09,165 INFO b.Cert [scheduling-1] SSL Certificate subject: CN=*.vmail.comcast.net, OU=Enterprise SSL Pro Wildcard, OU=Hosted by Comcast Corporation, OU=NSO, O=Comcast Corporation, STREET=1 Comcast Center, L=Philadelphia, ST=PA, OID.2.5.4.17=19103, C=US
-2019-03-28 14:42:09,177 INFO b.Cert [scheduling-1] SSL Certificate end date: Wed Mar 17 19:59:59 EDT 2021
-2019-03-28 14:42:09,178 INFO b.Cert [scheduling-1] Endpoint URL: https://web-po-bvip.vmail.comcast.net/
-2019-03-28 14:42:09,446 INFO b.Cert [scheduling-1] SSL Certificate subject: CN=*.vmail.comcast.net, OU=Enterprise SSL Pro Wildcard, OU=Hosted by Comcast Corporation, OU=NSO, O=Comcast Corporation, STREET=1 Comcast Center, L=Philadelphia, ST=PA, OID.2.5.4.17=19103, C=US
-2019-03-28 14:42:09,446 INFO b.Cert [scheduling-1] SSL Certificate end date: Wed Mar 17 19:59:59 EDT 2021
+2019-03-28 14:58:47,090 INFO b.SpringBatchSslApplication [main] Starting SpringBatchSslApplication on HQSML-155237 with PID 90936 (/Users/bxu601/nextVM-workspace/SpringBatchSSL/target/classes started by bxu601 in /Users/bxu601/nextVM-workspace/SpringBatchSSL)
+2019-03-28 14:58:47,093 INFO b.SpringBatchSslApplication [main] No active profile set, falling back to default profiles: default
+2019-03-28 14:58:47,536 INFO o.s.s.c.ThreadPoolTaskScheduler [main] Initializing ExecutorService 'taskScheduler'
+2019-03-28 14:58:47,554 INFO b.Cert [scheduling-1] One month later date: 2019/04/28 14:58:47
+2019-03-28 14:58:47,556 INFO b.SpringBatchSslApplication [main] Started SpringBatchSslApplication in 0.678 seconds (JVM running for 1.328)
+2019-03-28 14:58:47,556 INFO b.Cert [scheduling-1] Endpoint URL: https://xvevmms.vmail.comcast.net/
+2019-03-28 14:58:47,830 INFO b.Cert [scheduling-1] SSL Certificate subject: CN=*.vmail.comcast.net, OU=Enterprise SSL Pro Wildcard, OU=Hosted by Comcast Corporation, OU=NSO, O=Comcast Corporation, STREET=1 Comcast Center, L=Philadelphia, ST=PA, OID.2.5.4.17=19103, C=US
+2019-03-28 14:58:47,830 INFO b.Cert [scheduling-1] SSL Certificate end date: Wed Mar 17 19:59:59 EDT 2021
+2019-03-28 14:58:47,832 INFO b.Cert [scheduling-1] Endpoint URL: https://xvevmapi.vmail.comcast.net/
+2019-03-28 14:58:48,201 INFO b.Cert [scheduling-1] SSL Certificate subject: CN=*.vmail.comcast.net, OU=Enterprise SSL Pro Wildcard, OU=Hosted by Comcast Corporation, OU=NSO, O=Comcast Corporation, STREET=1 Comcast Center, L=Philadelphia, ST=PA, OID.2.5.4.17=19103, C=US
+2019-03-28 14:58:48,202 INFO b.Cert [scheduling-1] SSL Certificate end date: Wed Mar 17 19:59:59 EDT 2021
+2019-03-28 14:58:48,202 INFO b.Cert [scheduling-1] Endpoint URL: https://web-po-bvip.vmail.comcast.net/
+2019-03-28 14:58:48,476 INFO b.Cert [scheduling-1] SSL Certificate subject: CN=*.vmail.comcast.net, OU=Enterprise SSL Pro Wildcard, OU=Hosted by Comcast Corporation, OU=NSO, O=Comcast Corporation, STREET=1 Comcast Center, L=Philadelphia, ST=PA, OID.2.5.4.17=19103, C=US
+2019-03-28 14:58:48,477 INFO b.Cert [scheduling-1] SSL Certificate end date: Wed Mar 17 19:59:59 EDT 2021
+2019-03-28 14:58:57,551 INFO b.Cert [scheduling-1] One month later date: 2019/04/28 14:58:57
+2019-03-28 14:58:57,566 INFO b.Cert [scheduling-1] Endpoint URL: https://xvevmms.vmail.comcast.net/
+2019-03-28 14:58:57,658 INFO b.Cert [scheduling-1] SSL Certificate subject: CN=*.vmail.comcast.net, OU=Enterprise SSL Pro Wildcard, OU=Hosted by Comcast Corporation, OU=NSO, O=Comcast Corporation, STREET=1 Comcast Center, L=Philadelphia, ST=PA, OID.2.5.4.17=19103, C=US
+2019-03-28 14:58:57,659 INFO b.Cert [scheduling-1] SSL Certificate end date: Wed Mar 17 19:59:59 EDT 2021
+2019-03-28 14:58:57,659 INFO b.Cert [scheduling-1] Endpoint URL: https://xvevmapi.vmail.comcast.net/
+2019-03-28 14:58:57,841 INFO b.Cert [scheduling-1] SSL Certificate subject: CN=*.vmail.comcast.net, OU=Enterprise SSL Pro Wildcard, OU=Hosted by Comcast Corporation, OU=NSO, O=Comcast Corporation, STREET=1 Comcast Center, L=Philadelphia, ST=PA, OID.2.5.4.17=19103, C=US
+2019-03-28 14:58:57,842 INFO b.Cert [scheduling-1] SSL Certificate end date: Wed Mar 17 19:59:59 EDT 2021
+2019-03-28 14:58:57,842 INFO b.Cert [scheduling-1] Endpoint URL: https://web-po-bvip.vmail.comcast.net/
+2019-03-28 14:58:58,109 INFO b.Cert [scheduling-1] SSL Certificate subject: CN=*.vmail.comcast.net, OU=Enterprise SSL Pro Wildcard, OU=Hosted by Comcast Corporation, OU=NSO, O=Comcast Corporation, STREET=1 Comcast Center, L=Philadelphia, ST=PA, OID.2.5.4.17=19103, C=US
+2019-03-28 14:58:58,110 INFO b.Cert [scheduling-1] SSL Certificate end date: Wed Mar 17 19:59:59 EDT 2021
+2019-03-28 15:22:23,076 INFO b.SpringBatchSslApplication [main] Starting SpringBatchSslApplication on HQSML-155237 with PID 91765 (/Users/bxu601/nextVM-workspace/SpringBatchSSL/target/classes started by bxu601 in /Users/bxu601/nextVM-workspace/SpringBatchSSL)
+2019-03-28 15:22:23,080 INFO b.SpringBatchSslApplication [main] No active profile set, falling back to default profiles: default
+2019-03-28 15:22:23,544 INFO o.s.s.c.ThreadPoolTaskScheduler [main] Initializing ExecutorService 'taskScheduler'
+2019-03-28 15:22:23,561 INFO b.SpringBatchSslApplication [main] Started SpringBatchSslApplication in 0.7 seconds (JVM running for 1.341)
+2019-03-28 15:22:23,561 INFO b.Cert [scheduling-1] One month later date: 2019/04/28 15:22:23
+2019-03-28 15:22:23,562 INFO b.Cert [scheduling-1] Endpoint URL: https://xvevmms.vmail.comcast.net/
+2019-03-28 15:22:23,825 INFO b.Cert [scheduling-1] SSL Certificate subject: CN=*.vmail.comcast.net, OU=Enterprise SSL Pro Wildcard, OU=Hosted by Comcast Corporation, OU=NSO, O=Comcast Corporation, STREET=1 Comcast Center, L=Philadelphia, ST=PA, OID.2.5.4.17=19103, C=US
+2019-03-28 15:22:23,825 INFO b.Cert [scheduling-1] SSL Certificate end date: Wed Mar 17 19:59:59 EDT 2021
+2019-03-28 15:22:23,827 INFO b.Cert [scheduling-1] Endpoint URL: https://xvevmapi.vmail.comcast.net/
+2019-03-28 15:22:24,195 INFO b.Cert [scheduling-1] SSL Certificate subject: CN=*.vmail.comcast.net, OU=Enterprise SSL Pro Wildcard, OU=Hosted by Comcast Corporation, OU=NSO, O=Comcast Corporation, STREET=1 Comcast Center, L=Philadelphia, ST=PA, OID.2.5.4.17=19103, C=US
+2019-03-28 15:22:24,195 INFO b.Cert [scheduling-1] SSL Certificate end date: Wed Mar 17 19:59:59 EDT 2021
+2019-03-28 15:22:24,196 INFO b.Cert [scheduling-1] Endpoint URL: https://web-po-bvip.vmail.comcast.net/
+2019-03-28 15:22:24,471 INFO b.Cert [scheduling-1] SSL Certificate subject: CN=*.vmail.comcast.net, OU=Enterprise SSL Pro Wildcard, OU=Hosted by Comcast Corporation, OU=NSO, O=Comcast Corporation, STREET=1 Comcast Center, L=Philadelphia, ST=PA, OID.2.5.4.17=19103, C=US
+2019-03-28 15:22:24,471 INFO b.Cert [scheduling-1] SSL Certificate end date: Wed Mar 17 19:59:59 EDT 2021
+2019-03-28 15:22:33,558 INFO b.Cert [scheduling-1] One month later date: 2019/04/28 15:22:33
+2019-03-28 15:22:33,559 INFO b.Cert [scheduling-1] Endpoint URL: https://xvevmms.vmail.comcast.net/
+2019-03-28 15:22:33,617 INFO b.Cert [scheduling-1] SSL Certificate subject: CN=*.vmail.comcast.net, OU=Enterprise SSL Pro Wildcard, OU=Hosted by Comcast Corporation, OU=NSO, O=Comcast Corporation, STREET=1 Comcast Center, L=Philadelphia, ST=PA, OID.2.5.4.17=19103, C=US
+2019-03-28 15:22:33,617 INFO b.Cert [scheduling-1] SSL Certificate end date: Wed Mar 17 19:59:59 EDT 2021
+2019-03-28 15:22:33,617 INFO b.Cert [scheduling-1] Endpoint URL: https://xvevmapi.vmail.comcast.net/
+2019-03-28 15:22:33,799 INFO b.Cert [scheduling-1] SSL Certificate subject: CN=*.vmail.comcast.net, OU=Enterprise SSL Pro Wildcard, OU=Hosted by Comcast Corporation, OU=NSO, O=Comcast Corporation, STREET=1 Comcast Center, L=Philadelphia, ST=PA, OID.2.5.4.17=19103, C=US
+2019-03-28 15:22:33,799 INFO b.Cert [scheduling-1] SSL Certificate end date: Wed Mar 17 19:59:59 EDT 2021
+2019-03-28 15:22:33,800 INFO b.Cert [scheduling-1] Endpoint URL: https://web-po-bvip.vmail.comcast.net/
+2019-03-28 15:22:34,067 INFO b.Cert [scheduling-1] SSL Certificate subject: CN=*.vmail.comcast.net, OU=Enterprise SSL Pro Wildcard, OU=Hosted by Comcast Corporation, OU=NSO, O=Comcast Corporation, STREET=1 Comcast Center, L=Philadelphia, ST=PA, OID.2.5.4.17=19103, C=US
+2019-03-28 15:22:34,068 INFO b.Cert [scheduling-1] SSL Certificate end date: Wed Mar 17 19:59:59 EDT 2021
+2019-03-28 15:23:11,594 INFO b.SpringBatchSslApplication [main] Starting SpringBatchSslApplication on HQSML-155237 with PID 91785 (/Users/bxu601/nextVM-workspace/SpringBatchSSL/target/classes started by bxu601 in /Users/bxu601/nextVM-workspace/SpringBatchSSL)
+2019-03-28 15:23:11,598 INFO b.SpringBatchSslApplication [main] No active profile set, falling back to default profiles: default
+2019-03-28 15:23:12,033 INFO o.s.s.c.ThreadPoolTaskScheduler [main] Initializing ExecutorService 'taskScheduler'
+2019-03-28 15:23:12,053 INFO b.SpringBatchSslApplication [main] Started SpringBatchSslApplication in 0.673 seconds (JVM running for 1.285)
+2019-03-28 15:23:12,051 INFO b.Cert [scheduling-1] One month later date: 2019/04/28 15:23:12
+2019-03-28 15:23:12,053 INFO b.Cert [scheduling-1] Endpoint URL: https://xvevmms.vmail.comcast.net/
+2019-03-28 15:23:12,339 INFO b.Cert [scheduling-1] SSL Certificate subject: CN=*.vmail.comcast.net, OU=Enterprise SSL Pro Wildcard, OU=Hosted by Comcast Corporation, OU=NSO, O=Comcast Corporation, STREET=1 Comcast Center, L=Philadelphia, ST=PA, OID.2.5.4.17=19103, C=US
+2019-03-28 15:23:12,339 INFO b.Cert [scheduling-1] SSL Certificate end date: Wed Mar 17 19:59:59 EDT 2021
+2019-03-28 15:23:12,341 INFO b.Cert [scheduling-1] Endpoint URL: https://xvevmapi.vmail.comcast.net/
+2019-03-28 15:23:12,712 INFO b.Cert [scheduling-1] SSL Certificate subject: CN=*.vmail.comcast.net, OU=Enterprise SSL Pro Wildcard, OU=Hosted by Comcast Corporation, OU=NSO, O=Comcast Corporation, STREET=1 Comcast Center, L=Philadelphia, ST=PA, OID.2.5.4.17=19103, C=US
+2019-03-28 15:23:12,713 INFO b.Cert [scheduling-1] SSL Certificate end date: Wed Mar 17 19:59:59 EDT 2021
+2019-03-28 15:23:12,713 INFO b.Cert [scheduling-1] Endpoint URL: https://web-po-bvip.vmail.comcast.net/
+2019-03-28 15:23:12,990 INFO b.Cert [scheduling-1] SSL Certificate subject: CN=*.vmail.comcast.net, OU=Enterprise SSL Pro Wildcard, OU=Hosted by Comcast Corporation, OU=NSO, O=Comcast Corporation, STREET=1 Comcast Center, L=Philadelphia, ST=PA, OID.2.5.4.17=19103, C=US
+2019-03-28 15:23:12,990 INFO b.Cert [scheduling-1] SSL Certificate end date: Wed Mar 17 19:59:59 EDT 2021
+2019-03-28 15:23:22,049 INFO b.Cert [scheduling-1] One month later date: 2019/04/28 15:23:22
+2019-03-28 15:23:22,050 INFO b.Cert [scheduling-1] Endpoint URL: https://xvevmms.vmail.comcast.net/
+2019-03-28 15:23:22,101 INFO b.Cert [scheduling-1] SSL Certificate subject: CN=*.vmail.comcast.net, OU=Enterprise SSL Pro Wildcard, OU=Hosted by Comcast Corporation, OU=NSO, O=Comcast Corporation, STREET=1 Comcast Center, L=Philadelphia, ST=PA, OID.2.5.4.17=19103, C=US
+2019-03-28 15:23:22,101 INFO b.Cert [scheduling-1] SSL Certificate end date: Wed Mar 17 19:59:59 EDT 2021
+2019-03-28 15:23:22,102 INFO b.Cert [scheduling-1] Endpoint URL: https://xvevmapi.vmail.comcast.net/
+2019-03-28 15:23:22,273 INFO b.Cert [scheduling-1] SSL Certificate subject: CN=*.vmail.comcast.net, OU=Enterprise SSL Pro Wildcard, OU=Hosted by Comcast Corporation, OU=NSO, O=Comcast Corporation, STREET=1 Comcast Center, L=Philadelphia, ST=PA, OID.2.5.4.17=19103, C=US
+2019-03-28 15:23:22,273 INFO b.Cert [scheduling-1] SSL Certificate end date: Wed Mar 17 19:59:59 EDT 2021
+2019-03-28 15:23:22,274 INFO b.Cert [scheduling-1] Endpoint URL: https://web-po-bvip.vmail.comcast.net/
+2019-03-28 15:23:22,541 INFO b.Cert [scheduling-1] SSL Certificate subject: CN=*.vmail.comcast.net, OU=Enterprise SSL Pro Wildcard, OU=Hosted by Comcast Corporation, OU=NSO, O=Comcast Corporation, STREET=1 Comcast Center, L=Philadelphia, ST=PA, OID.2.5.4.17=19103, C=US
+2019-03-28 15:23:22,541 INFO b.Cert [scheduling-1] SSL Certificate end date: Wed Mar 17 19:59:59 EDT 2021

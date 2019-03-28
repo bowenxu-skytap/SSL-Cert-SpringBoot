@@ -11,12 +11,11 @@
         
         <RollingFile name="RollingFile" fileName="${baseDir}/certLogs.log" filePattern="${baseDir}/certLogs-%d{yyyy-MM-dd}-%i.log">
             <PatternLayout pattern="%d %p %c{1.} [%t] %m%n" />
-            <Policies>
-                <OnStartupTriggeringPolicy />
-            </Policies>
-<!--             <DefaultRolloverStrategy max="10">
-            </DefaultRolloverStrategy> -->
-            <DefaultRolloverStrategy>
+			<Policies>
+			    <TimeBasedTriggeringPolicy interval="7" />
+			</Policies>
+			<DefaultRolloverStrategy max="10"/>
+<!--             <DefaultRolloverStrategy>
                 <Delete basePath="${baseDir}" maxDepth="1">
                     <IfFileName glob="certLogs*.log">
 				        <IfAny>
@@ -24,8 +23,8 @@
 				        </IfAny>
 				    </IfFileName>
                 </Delete>
-            </DefaultRolloverStrategy>
-        </RollingFile>
+            </DefaultRolloverStrategy> -->
+        </RollingFile> 
     </Appenders>
   
     <Loggers>
