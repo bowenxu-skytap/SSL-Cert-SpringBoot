@@ -81,7 +81,7 @@ public class Cert {
 		}
 		Date currentDate = getCurrentDate();
 		
-		String host = "172.24.230.248";
+		String host = "ulamailrelay.g.comcast.com";
 		String port = "25";
 
         // sets SMTP server properties
