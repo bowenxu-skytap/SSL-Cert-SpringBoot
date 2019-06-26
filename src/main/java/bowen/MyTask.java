@@ -17,7 +17,8 @@ public class MyTask {
 	
 	@Scheduled(fixedRate = 1000*60*60*24*7) //trigger every week
     public void work() {
-		List<String> recipients = Arrays.asList(TO_EMAIL1, TO_EMAIL2);
+//		List<String> recipients = Arrays.asList(TO_EMAIL1, TO_EMAIL2);
+		List<String> recipients = Arrays.asList(TO_EMAIL1);
 		List<String> urls = Arrays.asList(URL1, URL2, URL3);
 		Cert cert = new Cert(recipients, urls);
 		cert.run();
